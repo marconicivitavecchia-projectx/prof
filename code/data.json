@@ -1,0 +1,17 @@
+{
+    "notificationList": [
+        {
+            "sender": "GIGGI",
+            "timestamp": "2018-12-09T13:30:00",
+            "content": "Ciao, sono felice di essere tuo amico!"
+        },{
+            "sender": "...",
+            "timestamp": "...",
+            "content": "..."
+        },{
+            "sender": "...",
+            "timestamp": "...",
+            "content": "..."
+        }
+    ]
+}
