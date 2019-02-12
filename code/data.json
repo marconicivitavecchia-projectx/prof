@@ -1,17 +1,11 @@
 {
-    "notificationList": [
+    "commandList": [
         {
-            "sender": "GIGGI",
-            "timestamp": "2018-12-09T13:30:00",
-            "content": "Ciao, sono felice di essere tuo amico!"
+            "name": "Bring me a coffee",
+            "description": "Prepare a cofee and bring it to the user"
         },{
-            "sender": "...",
-            "timestamp": "...",
-            "content": "..."
-        },{
-            "sender": "...",
-            "timestamp": "...",
-            "content": "..."
+            "name": "Turn on the lights",
+            "description": "Turn on the light of the current location"
         }
     ]
 }

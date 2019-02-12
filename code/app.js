@@ -1,7 +1,7 @@
 app = {
     init : function() {
         console.log("init inside app!");
-        $("title").text("Esempio by prof");
+        $("title").text("Project X");
         $.get("data.json")
         .done(app.onSuccess)
         .fail(app.onError);
